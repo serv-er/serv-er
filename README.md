@@ -1,3 +1,6 @@
+
+[![An image of @serv234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/serv234)](https://holopin.io/@serv234)
+
 <h1 align="center">Hey there! I'm Sarvesh 👋</h1>
 <p align="center">
   <b>Full-Stack Developer | MERN Specialist | AI Builder | Problem Solver</b>
@@ -81,4 +84,4 @@
 </p>
 
 
-[![An image of @serv234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/serv234)](https://holopin.io/@serv234)
+
